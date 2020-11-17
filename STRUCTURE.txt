@@ -1,0 +1,16 @@
+complete    1         less_crit
+completed   1         critical
+incomplete  1         critical
+foster      1         very_crit
+complete    2         critical
+completed   2         critical
+incomplete  2         very_crit
+foster      2         very_crit
+complete    3         very_crit
+completed   3         very_crit
+incomplete  3         very_crit
+foster      3         very_crit
+complete    more      very_crit
+completed   more      very_crit
+incomplete  more      very_crit
+foster      more      very_crit

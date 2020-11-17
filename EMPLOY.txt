@@ -1,0 +1,15 @@
+usual        proper       convenient
+pretentious  proper       less_conv
+great_pret   proper       inconv
+usual        less_proper  less_conv
+pretentious  less_proper  less_conv
+great_pret   less_proper  inconv
+usual        improper     less_conv
+pretentious  improper     inconv
+great_pret   improper     critical
+usual        critical     inconv
+pretentious  critical     critical
+great_pret   critical     critical
+usual        very_crit    critical
+pretentious  very_crit    critical
+great_pret   very_crit    critical

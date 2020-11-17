@@ -1,0 +1,9 @@
+nonprob       recommended  recommended
+slightly_prob  recommended  recommended
+problematic    recommended  priority
+nonprob       priority     priority
+slightly_prob  priority     priority
+problematic    priority     priority
+nonprob       not_recom    not_recommended
+slightly_prob  not_recom    not_recommended
+problematic    not_recom    not_recommended
